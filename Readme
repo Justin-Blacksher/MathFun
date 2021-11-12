@@ -1,0 +1,30 @@
+Sample output.
+
+This will continue to grow and have more features.
+
+As of now It only include a class for Right Triangle Trig, main file (for testing), and a constants file.
+The constants file will be a list of constants I make along the way. I intend on building my own math library.
+I know it's like re-inventing the wheel but I really like being able to do it in a way that I find useful and
+can use it to build upon for other things. 
+
+Goals...
+
+As a thought on what I might *try and do, I really like OpenCV and would like to maybe find a way
+instead of boxes to identify things but a relational triangle that uses my functions to calculate
+the height of a given object. (hopefully accurately) Or at least analyze a photo and create an app
+that can assist welders or whatever. Its brainstorming and I hope It gets somewhere. Stay tuned and 
+don't be afraid to make any critisisms. I appreciate all input and just know that It is far from done.
+Thank you!
+
+
+Triangle Definitions
+---------------------
+[+] hyp = 4.9
+[+] adj = 4.0
+[+] opp = 2.8
+[+] Cos = 0.8163265306122448
+[+] Tan = 0.7
+[+] Sin = 0.5714285714285714
+[+] Cot = 1.4285714285714286
+[+] Sec = 0
+[+] Csc = 1.225
