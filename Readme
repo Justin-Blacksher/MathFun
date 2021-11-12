@@ -28,3 +28,12 @@ Triangle Definitions
 [+] Cot = 1.4285714285714286
 [+] Sec = 0
 [+] Csc = 1.225
+
+
+# -------------------------------- Constants.py ------------------------------
+
+Added some of the constants. I am not sure of the use cases yet. I just have
+them in a format that is easily accessed and a help function to explain them.
+It isn't very usefull at the moment but It will be a library of them anyway.
+I think this whole project will turn into more of a python math journal. I don't know
+Just flying by the seat of my pants because I am having fun doing it.
